@@ -8,6 +8,10 @@ Then, we run a dimensionality reduction on the matrix using Singular Value Decom
 
 <img height=200 src="./Images/svd.png"/>
 
+Below is a plot of few hand-picked words which have been dimensionally reduced to 2-dimensions
+
+<img height=400 src="co_occurrence_embeddings.png"/>
+
 
 - To run and obtain the embeddings
 ```
